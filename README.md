@@ -1,7 +1,7 @@
 # Hi there, I'm Jacqueline 👋
 
 <img align="left" width="47%"  
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/apiusername=JacquelineQ&show_icons=true&theme=radical"/>
+     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JacquelineQ&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JacquelineQ&layout=compact"/>
 
 
